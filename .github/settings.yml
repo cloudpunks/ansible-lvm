@@ -1,6 +1,6 @@
 ---
 repository:
-  name: lvm
+  name: ansible-lvm
   description: Ansible role to install and configure the logical volume manager
   topics: ansible, role, ansible-role, hacktoberfest
 
