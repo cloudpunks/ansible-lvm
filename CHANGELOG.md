@@ -1,5 +1,18 @@
 # Changelog
 
+## [3.6.0](https://github.com/rolehippie/lvm/compare/v3.5.0...v3.6.0) (2026-04-27)
+
+### Dependencies
+
+* **minor:** update dependency community.general to >=12.6.0,<12.7.0 ([#57](https://github.com/rolehippie/lvm/issues/57)) ([bfba7b3](https://github.com/rolehippie/lvm/commit/bfba7b3bf8fbd0d6c8126b7db8804b9410b89552))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([2a60455](https://github.com/rolehippie/lvm/commit/2a6045505d7086dc1c42250cffead765a47c1bbf))
+* **flake:** updated lockfile [skip ci] ([ff3b2b6](https://github.com/rolehippie/lvm/commit/ff3b2b6ddf6c332423f43ef86c67c61a4ccc7489))
+* **flake:** updated lockfile [skip ci] ([82c05f1](https://github.com/rolehippie/lvm/commit/82c05f1422ee1a88af1ee733112ddc4d596981f8))
+* **flake:** updated lockfile [skip ci] ([b54383e](https://github.com/rolehippie/lvm/commit/b54383e754b2af85b12601d0f316a0f4cf4c014a))
+
 ## [3.5.0](https://github.com/rolehippie/lvm/compare/v3.4.0...v3.5.0) (2026-03-30)
 
 ### Dependencies
