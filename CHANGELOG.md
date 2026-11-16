@@ -1,5 +1,27 @@
 # Changelog
 
+## [5.0.0](https://github.com/rolehippie/lvm/compare/v4.8.0...v5.0.0) (2026-11-16)
+
+* automated release update [skip ci] ([2979af4](https://github.com/rolehippie/lvm/commit/2979af4d85c7d4b168a77d482629a6b2e21f7a1a))
+* automated release update [skip ci] ([ae34a9e](https://github.com/rolehippie/lvm/commit/ae34a9e00794dfcbc5ba5da9382666a43203e34b))
+* automated release update [skip ci] ([0ccaa59](https://github.com/rolehippie/lvm/commit/0ccaa5914fa16191dbc891ddf05ed3151094adaf))
+
+### Dependencies
+
+* **major:** update dependency community.general to v14 ([#93](https://github.com/rolehippie/lvm/issues/93)) ([ae04c04](https://github.com/rolehippie/lvm/commit/ae04c0400e210c42af26a58068b83f282ab3d345))
+* **mise:** update dependency pipx:ansible-core to v2.22.0 ([#92](https://github.com/rolehippie/lvm/issues/92)) ([f6b62bf](https://github.com/rolehippie/lvm/commit/f6b62bffae1e84c0a522842944b98fae72629438))
+* **mise:** update dependency pipx:ansible-doctor to v8.4.4 ([#97](https://github.com/rolehippie/lvm/issues/97)) ([f7a5cbf](https://github.com/rolehippie/lvm/commit/f7a5cbfbf1f3ac5f32d5f1d88a1676dda209f910))
+* **mise:** update dependency pipx:ansible-lint to v26.10.0 ([#85](https://github.com/rolehippie/lvm/issues/85)) ([38cfb34](https://github.com/rolehippie/lvm/commit/38cfb344d998302453b994bea45ce5aa02f9eac2))
+* **mise:** update dependency pipx:ansible-lint to v26.10.1 ([#87](https://github.com/rolehippie/lvm/issues/87)) ([120e6c8](https://github.com/rolehippie/lvm/commit/120e6c862a72dd3cb8e33348462630ba621bfad6))
+* **mise:** update dependency pipx:ansible-lint to v26.11.0 ([#95](https://github.com/rolehippie/lvm/issues/95)) ([6a344dc](https://github.com/rolehippie/lvm/commit/6a344dcbccbec597556a7c21878c474a4d1a72fd))
+* **mise:** update dependency pipx:molecule to v26.11.0 ([#96](https://github.com/rolehippie/lvm/issues/96)) ([8483ba9](https://github.com/rolehippie/lvm/commit/8483ba91254afa540a44584b0f79071fbe9f2525))
+* **mise:** update dependency prek to v0.5.10 ([#94](https://github.com/rolehippie/lvm/issues/94)) ([d0be54b](https://github.com/rolehippie/lvm/commit/d0be54be0a97bd77bc70bf771991f07cee8369f2))
+* **mise:** update dependency prek to v0.5.11 ([#98](https://github.com/rolehippie/lvm/issues/98)) ([dff4a73](https://github.com/rolehippie/lvm/commit/dff4a73e01769780695116ddbc68a1a4460f6085))
+* **mise:** update dependency prek to v0.5.6 ([#88](https://github.com/rolehippie/lvm/issues/88)) ([e0f0dcf](https://github.com/rolehippie/lvm/commit/e0f0dcf102ba3bbc7b507a8c11bc56e5bb41e77b))
+* **mise:** update dependency prek to v0.5.7 ([#89](https://github.com/rolehippie/lvm/issues/89)) ([ff3c9ae](https://github.com/rolehippie/lvm/commit/ff3c9ae8b6d5616534d39895582f2c5de2470d25))
+* **mise:** update dependency prek to v0.5.9 ([#91](https://github.com/rolehippie/lvm/issues/91)) ([690771b](https://github.com/rolehippie/lvm/commit/690771bc20b94ad815fd7d628534158806b4ae44))
+* **mise:** update node.js to v26 ([#90](https://github.com/rolehippie/lvm/issues/90)) ([dedeea4](https://github.com/rolehippie/lvm/commit/dedeea44e530c200cdcca2db97d4e05e50ecec52))
+
 ## [4.8.0](https://github.com/rolehippie/lvm/compare/v4.7.0...v4.8.0) (2026-10-12)
 
 ### Dependencies
